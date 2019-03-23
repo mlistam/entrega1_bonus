@@ -1,8 +1,8 @@
 ejecutar 
-1. para ver la lista de cursos
+1. para ver la lista de cursos:
 node cursos 
 
-2. para seleccionar un curso
+2. para seleccionar un curso:
 node cursos seleccionar --nombre=ma --id_curso=mat --cedula=1
 
 escribir en el navegador:
